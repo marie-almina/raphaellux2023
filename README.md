@@ -6,9 +6,9 @@
 ```
 git clone url
 ```
-- Lancer le docker compose
+- Lancer le docker compose (en background)
 ```
-./vendor/bin/sail up
+./vendor/bin/sail up -d
 ```
 - Créer la BDD
 ```
